@@ -1,0 +1,11 @@
+html {
+  background: url("https://www.fineandwild.com/cdn/shop/files/untitled.jpg?v=1732099823&width=1349");
+  background-size: cover;
+}
+
+h1,
+h2,
+h3 {
+  background-color: orange;
+  color: white;
+}
